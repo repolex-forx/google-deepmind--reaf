@@ -1,0 +1,11 @@
+{
+  "org": "google-deepmind",
+  "repo": "reaf",
+  "versions": [
+    {
+      "commit": "159ec838a377fd1a884814d6049905676444e471",
+      "tag": "v1.1.2",
+      "parsed_at": "2026-11-08T08:59:40.038449+00:00"
+    }
+  ]
+}
