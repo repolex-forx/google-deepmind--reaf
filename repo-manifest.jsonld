@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/google-deepmind/reaf/commit/159ec838a377fd1a884814d6049905676444e471",
       "git:hexsha": "159ec838a377fd1a884814d6049905676444e471",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v1.1.2"
     },
     {
